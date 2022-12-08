@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **C++, Full Stack Web Development, DSA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/alok-kumar-singh20/**
+- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e3ba0a142d95980327354aa32fe984c74653d2bb&rid=giphy.gif&ct=g">
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
