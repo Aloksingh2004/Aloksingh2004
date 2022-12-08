@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksingh2004&label=Profile%20views&color=0e75b6&style=flat" alt="aloksingh2004" /> </p>
 
-- 🔭 I’m currently working on **Community Discussion forum**
+- 🔭 I’m currently working on **(DeBox)Community Discussion forum**
+
+- 🌱 I’m currently learning **C++, Full Stack Web Development, DSA**
+
+- 📫 How to reach me **https://www.linkedin.com/in/alok-kumar-singh20/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
